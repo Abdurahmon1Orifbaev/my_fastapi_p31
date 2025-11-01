@@ -160,7 +160,6 @@ celerybeat-schedule
 celerybeat.pid
 *.sage.py
 !env/.env.example
-env/
 venv/
 .idea
 migrations/versions/*
