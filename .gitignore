@@ -5,10 +5,8 @@
 # --- Virtual environments ---
 .venv/
 venv/
-ENV/
-env.bak/
 venv.bak/
-env/
+
 
 # --- Byte-compiled / optimized files ---
 __pycache__/
